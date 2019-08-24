@@ -1,0 +1,15 @@
+.userhb {
+  width: 100%;
+  margin: 0 auto;
+  height: 220rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #282b4a;
+  margin-top: 20rpx;
+}
+/* 特有的元素选择器 */
+ec-canvas {
+  width: 100%;
+  height: 100%;
+}
